@@ -1,2 +1,0 @@
-# novapjt
-new project
